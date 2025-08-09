@@ -1,0 +1,2 @@
+# thu_tushin_2025_Practice_of_Software
+応用プログラミング演習／ソフトウェア演習
